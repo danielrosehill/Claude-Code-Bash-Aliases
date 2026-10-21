@@ -2,7 +2,7 @@
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-8A2BE2)
 [![Claude Code Projects Index](https://img.shields.io/badge/View-Claude%20Code%20Projects-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
-[![Master Index](https://img.shields.io/badge/View-Master%20Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+[![Master Index](https://img.shields.io/badge/View-Master%20Index-green)](https://github.com/danielrosehill/Start-Here)
 
 A collection of bash aliases for speeding up common and repetitive operations with Claude Code on Linux.
 
